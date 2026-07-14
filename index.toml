@@ -1416,16 +1416,6 @@ hash = "1986ce7dfd8a7cf89ad4b83d8b9caf57b0773c2646cba27ce5bca310fe7fe171"
 metafile = true
 
 [[files]]
-file = "mods/particular-patches.pw.toml"
-hash = "0872e3955237f8408614e11e0387035a3fa3db53c9b791049ef6ef6e763891b0"
-metafile = true
-
-[[files]]
-file = "mods/particular.pw.toml"
-hash = "a4c2ae8740386443f213b14a6f1cd9ab201a8d615dc6b87d64b4bb6ad6d55b07"
-metafile = true
-
-[[files]]
 file = "mods/passive-shield.pw.toml"
 hash = "710fe057d1bc1096ab1e62186d6930aab2d9b2194a9ab973d3f4c074379769ce"
 metafile = true
