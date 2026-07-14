@@ -1162,11 +1162,6 @@ hash = "52ff35645cfec6159f8d36c960b075c24c02cafb1dbf17d53d94548560279018"
 metafile = true
 
 [[files]]
-file = "mods/macos-input-fixes.pw.toml"
-hash = "4f68b598c728a53c3aae8b4d933e249b18e56b32404271d4cc5929709e762755"
-metafile = true
-
-[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "054b2c5512f4673a6c55bf097b6c56933a89b960357e1356e685718fe0de2318"
 metafile = true
