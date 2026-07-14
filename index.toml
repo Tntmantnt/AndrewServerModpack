@@ -3682,11 +3682,6 @@ hash = "e85d3b93c661e0c53e865e4ab021bc9903b20d2033b33be79b454e05ce520f57"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "89b82690ba06e1fb286b6c142c3b516d515c880ef46bdb5d400cf47a2980a000"
-metafile = true
-
-[[files]]
 file = "mods/panorama-screens.pw.toml"
 hash = "8a795e45b7929e5abee2a825ddac6bd32a366526475ceeddd3fde2432ab0cc32"
 metafile = true
@@ -4334,11 +4329,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "3c0eb4c0faa949fd2669607bb8e312959856774112bea8060a0efee90917b11c"
-metafile = true
-
-[[files]]
-file = "mods/xl-packets-fabric.pw.toml"
-hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
 metafile = true
 
 [[files]]
