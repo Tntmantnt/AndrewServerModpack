@@ -2770,9 +2770,8 @@ hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
 metafile = true
 
 [[files]]
-file = "mods/custom-splash-screen.pw.toml"
-hash = "bcbccee9c30535b39dae9fa3bfbae0d45882cfa51448b27852933f7301d307a1"
-metafile = true
+file = "mods/customsplashscreen-2.1.1.jar"
+hash = "aa581777c668e58ce885fb3d3b1fd0c654cb192580203e1a36e25e140cbf8152"
 
 [[files]]
 file = "mods/cycle-paintings.pw.toml"
