@@ -3,11 +3,11 @@ filename = "Cube-ish Buckets Compats.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yEDzuqsM/versions/pcQEM16K/Cube-ish%20Buckets%20Compats.zip"
+url = "https://cdn.modrinth.com/data/yEDzuqsM/versions/s5SurwHk/Cube-ish%20Buckets%20Compats.zip"
 hash-format = "sha512"
-hash = "9cbf5add1422edef27039d0b5216983ea70ec329e0df2aab7e5a282662679e14329f85422502850fb85540e64ce07155ad6e89c32529e68b79ea3c61d372d1fc"
+hash = "23ebe62d08987b8b1e20a8bb54d9c5a5b833e264a03c9ae6d6722b53d9cda4921f69befed137470afd01fb220ee32c013fd87f14eeab817f5f0dcb0c2d36bcf2"
 
 [update]
 [update.modrinth]
 mod-id = "yEDzuqsM"
-version = "pcQEM16K"
+version = "s5SurwHk"
