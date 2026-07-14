@@ -1,0 +1,8 @@
+{
+  "compensation": 0,
+  "sound": {
+    "enabled": true,
+    "volume": 5,
+    "pitch": 20
+  }
+}

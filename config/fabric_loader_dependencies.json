@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "embeddium": {
+      "breaks": {
+        "iris": ">=1.7.6"
+      }
+    },
+    "stfu": {
+      "breaks": {
+        "modelfix": "*"
+      }
+    },
+    "supplementaries": {
+      "-breaks": {
+        "particular": "*"
+      }
+    }
+  }
+}

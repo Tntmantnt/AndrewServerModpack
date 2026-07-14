@@ -1,0 +1,10 @@
+{
+  "type": "emixx:group",
+  "id": "ed:leaves",
+  "contents": [
+    "#minecraft:leaves",
+    "meadow:alpine_birch_leaves_hanging",
+    "arts_and_crafts:cork_leaves",
+    "meadow:pine_leaves"
+  ]
+}

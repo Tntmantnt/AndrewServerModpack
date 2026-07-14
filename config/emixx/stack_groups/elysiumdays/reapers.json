@@ -1,0 +1,17 @@
+{
+  "id": "niftycarts:reapers",
+  "type": "emixx:group",
+  "contents": [
+    "niftycarts:oak_reaper",
+    "niftycarts:spruce_reaper",
+    "niftycarts:dark_oak_reaper",
+    "niftycarts:birch_reaper",
+    "niftycarts:jungle_reaper",
+    "niftycarts:acacia_reaper",
+    "niftycarts:mangrove_reaper",
+    "niftycarts:cherry_reaper",
+    "niftycarts:bamboo_reaper",
+    "niftycarts:warped_reaper",
+    "niftycarts:crimson_reaper"
+  ]
+}

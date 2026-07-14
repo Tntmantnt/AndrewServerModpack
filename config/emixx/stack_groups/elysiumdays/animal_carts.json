@@ -1,0 +1,17 @@
+{
+  "id": "niftycarts:animal_carts",
+  "type": "emixx:group",
+  "contents": [
+    "niftycarts:oak_animal_cart",
+    "niftycarts:spruce_animal_cart",
+    "niftycarts:dark_oak_animal_cart",
+    "niftycarts:birch_animal_cart",
+    "niftycarts:jungle_animal_cart",
+    "niftycarts:acacia_animal_cart",
+    "niftycarts:mangrove_animal_cart",
+    "niftycarts:cherry_animal_cart",
+    "niftycarts:bamboo_animal_cart",
+    "niftycarts:warped_animal_cart",
+    "niftycarts:crimson_animal_cart"
+  ]
+}

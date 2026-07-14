@@ -1,0 +1,23 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "1": [
+      "high_contrast",
+      "minecraft:highlight_extended",
+      "elytratrims:legacy",
+      "supplementaries:darker_ropes",
+      "bakery:minecraft_bricks",
+      "copperrails:copperrails3d",
+      "vanillabackport:freshly_animated",
+      "crittersandcompanions:friendlyart"
+    ],
+    "$$1": {
+      "hidden": true
+    }
+  }
+}

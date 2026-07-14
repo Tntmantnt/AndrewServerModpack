@@ -1,0 +1,13 @@
+{
+  "type": "emixx:group",
+  "id": "minecraft:minecarts",
+  "contents": [
+    "minecraft:minecart",
+    "minecraft:hopper_minecart",
+    "copperhopper:copper_hopper_minecart",
+    "minecraft:chest_minecart",
+    "minecraft:furnace_minecart",
+    "minecraft:tnt_minecart",
+    "supplementaries:dispenser_minecart"
+  ]
+}

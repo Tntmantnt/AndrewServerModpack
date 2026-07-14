@@ -1,0 +1,10 @@
+{
+	"renderPosition": "BEFORE_LINE",
+	"threeDeeNess": 0.5,
+	"offsetNonPlayerText": false,
+	"senderDetection": "UUID_AND_HEURISTIC",
+	"smartHeuristics": true,
+	"handleSystemMessages": true,
+	"drawShadow": true,
+	"nameAliases": { }
+}

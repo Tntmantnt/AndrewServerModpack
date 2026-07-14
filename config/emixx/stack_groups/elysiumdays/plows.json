@@ -1,0 +1,17 @@
+{
+  "id": "niftycarts:plows",
+  "type": "emixx:group",
+  "contents": [
+    "niftycarts:oak_plow",
+    "niftycarts:spruce_plow",
+    "niftycarts:dark_oak_plow",
+    "niftycarts:birch_plow",
+    "niftycarts:jungle_plow",
+    "niftycarts:acacia_plow",
+    "niftycarts:mangrove_plow",
+    "niftycarts:cherry_plow",
+    "niftycarts:bamboo_plow",
+    "niftycarts:warped_plow",
+    "niftycarts:crimson_plow"
+  ]
+}

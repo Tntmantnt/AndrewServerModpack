@@ -1,0 +1,8 @@
+{
+  "type": "emixx:group",
+  "id": "ed:jack_o_lanterns",
+  "contents": [
+    "#chipped:jack_o_lantern",
+    "soulcandles:soul_jack_o_lantern"
+  ]
+}

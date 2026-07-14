@@ -1,0 +1,19 @@
+{
+  "defaultCycleTime": 5000,
+  "ignoredNamespaces": [],
+  "ignoredTips": [
+    "tipsmod:job_site_dimension",
+    "tipsmod:fortress_triangulation",
+    "tipsmod:end_dimension",
+    "tipsmod:sitting_pets",
+    "tipsmod:mushroom_placement"
+  ],
+  "hideUnlocalizedTips": false,
+  "tipRenderWidthPercent": 0.35,
+  "defaultTitle": {
+    "bold": true,
+    "underlined": true,
+    "color": "yellow",
+    "translate": "tipsmod.title.default"
+  }
+}
