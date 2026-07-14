@@ -1,0 +1,13 @@
+name = "What The Bucket"
+filename = "WhatTheBucket-Fabric-1.20.1-11.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zUxYvzMP/versions/AEuWqKt4/WhatTheBucket-Fabric-1.20.1-11.0.4.jar"
+hash-format = "sha512"
+hash = "026faf7aedfe9d1fe1d631934d61fa009f7c1d68a66cc5128a976c636fe55f91007ea261599b46030367d6332634ce97fa3baa13cd293a9b63565390e19379a2"
+
+[update]
+[update.modrinth]
+mod-id = "zUxYvzMP"
+version = "AEuWqKt4"

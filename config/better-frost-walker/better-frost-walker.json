@@ -1,0 +1,9 @@
+{
+  "maxLevel": 2,
+  "generateIceWhileStill": true,
+  "standingOnPowderedSnow": true,
+  "serverSideOnly": false,
+  "serverSideOnlyAfterRestart": false,
+  "noIceFallDamage": true,
+  "meltIceInTheDark": true
+}

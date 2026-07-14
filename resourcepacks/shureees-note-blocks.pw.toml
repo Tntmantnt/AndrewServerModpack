@@ -1,0 +1,13 @@
+name = "shureee's Note Blocks"
+filename = "shureee's Note Blocks v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PMOOEzep/versions/Pr1pscGC/shureee%27s%20Note%20Blocks%20v1.1.zip"
+hash-format = "sha512"
+hash = "6b329a15a23c010d0f4a16d9d75d10b24166e83c1a3ee8815d1d96953cff25a4dd06952307f5561265d3e601c44c620b0763ff49eedcb78d400e5f869c06f551"
+
+[update]
+[update.modrinth]
+mod-id = "PMOOEzep"
+version = "Pr1pscGC"

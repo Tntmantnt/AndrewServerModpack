@@ -1,0 +1,13 @@
+name = "Pathly"
+filename = "pathly-0.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MLdRRN43/versions/pL9gGDx4/pathly-0.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "f2e037c41ff7f94c5dc70eb1be8a84018f75607289909517706cab09fc9ab5f890e53859ad07db766f5e083d4e6a7ede6913ce310a235bef112f03a309952ea0"
+
+[update]
+[update.modrinth]
+mod-id = "MLdRRN43"
+version = "pL9gGDx4"

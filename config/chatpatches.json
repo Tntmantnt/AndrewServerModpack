@@ -1,0 +1,10 @@
+{
+  "timeSystemMessages": false,
+  "timeDate": "HH:mm",
+  "timeColor": "#FF979BA8",
+  "hover": false,
+  "boundary": false,
+  "chatlog": false,
+  "nameFormat": "$:",
+  "vanillaClearing": true
+}

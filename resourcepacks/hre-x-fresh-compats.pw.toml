@@ -1,0 +1,13 @@
+name = "Hellay's Redone Endermans x Fresh Compats"
+filename = "Hellay's Redone Endermans x Fresh Compats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ukq4wHPQ/versions/w4WYLxZC/Hellay%27s%20Redone%20Endermans%20x%20Fresh%20Compats.zip"
+hash-format = "sha512"
+hash = "95356708c383636a33c2ff5b62d8e71be388d49331d148f1cbe5ddec2d038bdb063b2a34c0f6dc1d2c85506dc0b131a752aed4752d518c20d38842ec56f96e35"
+
+[update]
+[update.modrinth]
+mod-id = "ukq4wHPQ"
+version = "w4WYLxZC"

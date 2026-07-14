@@ -1,0 +1,11 @@
+{
+  "type": "emixx:group",
+  "id": "ed:lanterns",
+  "contents": [
+    "#chipped:lantern",
+    "suppsquared:copper_lantern",
+    "suppsquared:crimson_lantern",
+    "meadow:oil_lantern",
+    "ribbits:swamp_lantern"
+  ]
+}

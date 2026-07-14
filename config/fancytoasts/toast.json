@@ -1,0 +1,10 @@
+{
+  "textureId": "fancytoasts:config/textures/modernxvanilla.png",
+  "animationId": "fancytoasts:animations/toast/quirky",
+  "soundIds": {
+    "TASK": "minecraft:block.amethyst_block.step",
+    "GOAL": "minecraft:entity.firework_rocket.twinkle_far",
+    "CHALLENGE": "minecraft:ui.toast.challenge_complete"
+  },
+  "version": 1
+}

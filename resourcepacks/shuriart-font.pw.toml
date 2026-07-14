@@ -1,0 +1,13 @@
+name = "shuriart Font"
+filename = "shuriart Font v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ixY6O998/versions/FGKM4Jbr/shuriart%20Font%20v1.2.zip"
+hash-format = "sha512"
+hash = "9aa74e3d12d5ccb8c9b32aed599126a8856d93aaa13bdff663345500a35502817316df9b38a8105ac5abe9a7d30f10d66578a7388f7d37af495080c9423dc61f"
+
+[update]
+[update.modrinth]
+mod-id = "ixY6O998"
+version = "FGKM4Jbr"

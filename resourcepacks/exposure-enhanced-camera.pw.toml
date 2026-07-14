@@ -1,0 +1,13 @@
+name = "Exposure Enhanced Camera"
+filename = "Exposure Enhanced Camera 1.2 - 1.7.0+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VJ1VZhuC/versions/Q3mRa5EF/Exposure%20Enhanced%20Camera%201.2%20-%201.7.0%2B.zip"
+hash-format = "sha512"
+hash = "fd0e9098785e5b36e453bfe77927f43514b4651703d68b715ce3f863ff8970eb5de0eb7ed8baf032b150e457918dde2412f4e094078646cd220f524fb4827536"
+
+[update]
+[update.modrinth]
+mod-id = "VJ1VZhuC"
+version = "Q3mRa5EF"

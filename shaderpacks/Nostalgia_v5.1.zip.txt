@@ -1,0 +1,5 @@
+#Fri May 15 15:12:49 TRT 2026
+windEffectsEnabled=false
+ResolutionScale=1.0
+motionblurToggle=false
+vignetteEnabled=false

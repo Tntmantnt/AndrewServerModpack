@@ -1,0 +1,69 @@
+{
+	/* -> General
+	   OFF/FAST/FANCY (default: FANCY)
+	*/
+	"betterGrassMode": "FAST",
+	// (default: true)
+	"resourcePackCompatibilityMode": true,
+	/* Blocks
+	   (default: true)
+	*/
+	"grassBlocks": true,
+	// (default: true)
+	"snowy": true,
+	// (default: true)
+	"dirtPaths": true,
+	// (default: true)
+	"farmLands": true,
+	// (default: true)
+	"podzol": true,
+	// (default: true)
+	"mycelium": true,
+	// (default: true)
+	"crimsonNylium": true,
+	// (default: true)
+	"warpedNylium": true,
+	"moreBlocks": [
+		"regions_unexplored:peat_grass_block",
+		"regions_unexplored:peat_dirt_path",
+		"regions_unexplored:silt_grass_block",
+		"regions_unexplored:silt_dirt_path",
+		"regions_unexplored:alpha_grass_block",
+		"phantasm:vivid_nihilium",
+		"phantasm:acidic_nihilium",
+		"regions_unexplored:brimsprout_nylium",
+		"regions_unexplored:cobalt_nylium",
+		"regions_unexplored:glistering_nylium",
+		"regions_unexplored:peat_podzol",
+		"regions_unexplored:silt_podzol",
+		"regions_unexplored:mycotoxic_moss",
+		"regions_unexplored:peat_farmland",
+		"regions_unexplored:silt_farmland",
+		"farm_and_charm:fertilized_farmland"
+	],
+	/* -> Better Snow
+	   OFF/OPTIFINE/LAMBDA (default: OPTIFINE)
+	*/
+	"betterSnowMode": "OFF",
+	"snowLayers": [
+		"snow",
+		"moss_carpet"
+	],
+	"excludedTags": [
+		"buttons",
+		"doors",
+		"fire",
+		"leaves",
+		"pressure_plates",
+		"rails"
+	],
+	"excludedBlocks": [
+		"lantern[hanging]",
+		"redstone_wall_torch",
+		"soul_lantern[hanging]",
+		"soul_wall_torch",
+		"wall_torch"
+	],
+	"whitelistedTags": [],
+	"whitelistedBlocks": []
+}

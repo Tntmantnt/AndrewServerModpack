@@ -1,0 +1,13 @@
+name = "Ashen + InmisAddon Support"
+filename = "Ashen InmisAddon Compat.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iz3kEid3/versions/9kGBZbAR/Ashen%20InmisAddon%20Compat.zip"
+hash-format = "sha512"
+hash = "12a52da8bd8453df9cf600bb4511d92bb916e02195d407ba09690d8c485c4b5ee39aa2fcfd1d366c865a7a88e99b6229ae4e957ba0fb3809782f8a7c91d15d50"
+
+[update]
+[update.modrinth]
+mod-id = "iz3kEid3"
+version = "9kGBZbAR"

@@ -1,0 +1,17 @@
+{
+  "id": "niftycarts:supply_carts",
+  "type": "emixx:group",
+  "contents": [
+    "niftycarts:oak_supply_cart",
+    "niftycarts:spruce_supply_cart",
+    "niftycarts:dark_oak_supply_cart",
+    "niftycarts:birch_supply_cart",
+    "niftycarts:jungle_supply_cart",
+    "niftycarts:acacia_supply_cart",
+    "niftycarts:mangrove_supply_cart",
+    "niftycarts:cherry_supply_cart",
+    "niftycarts:bamboo_supply_cart",
+    "niftycarts:warped_supply_cart",
+    "niftycarts:crimson_supply_cart"
+  ]
+}

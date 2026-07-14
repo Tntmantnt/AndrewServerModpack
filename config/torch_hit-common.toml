@@ -1,0 +1,40 @@
+# Fire damage duration for direct (main hand) hits.
+#Range: 1 ~ 8
+"direct hit duration" = 4
+# Fire damage duration for indirect (offhand + tool) hits.
+#Range: 1 ~ 8
+"indirect hit duration" = 2
+# List of tools that allow for an indirect hit when a torch is being held in the offhand.
+# Leave empty to disable indirect hits.
+# Insert either item categories or specific item IDs.
+"indirect tools" = ["sword", "axe", "pickaxe", "shovel", "hoe"]
+# How much Indirect Hits should damage wooden tools (in percentage).
+# 0 to disable.
+#Range: 0 ~ 100
+"indirect hit tool damage" = 33
+# List of item ids that should be considered as a Torch.
+"extra torch items" = ["chipped:acacia_torch", "chipped:birch_torch", "chipped:crimson_torch", "chipped:dark_oak_torch", "chipped:glow_torch", "chipped:iron_torch", "chipped:jungle_torch", "chipped:spruce_torch", "chipped:warped_torch", "everycomp:ch/deeperdarker/bloom_torch", "everycomp:ch/gardens_of_the_dead/whistlecane_torch", "everycomp:ch/arts_and_crafts/cork_torch", "everycomp:ch/deeperdarker/echo_torch", "everycomp:ch/gardens_of_the_dead/soulblight_torch", "everycomp:ch/betterarcheology/rotten_torch", "everycomp:ch/meadow/pine_torch", "everycomp:ch/phantasm/pream_torch", "everycomp:ch/regions_unexplored/alpha_torch", "everycomp:ch/regions_unexplored/baobab_torch", "everycomp:ch/regions_unexplored/blackwood_torch", "everycomp:ch/regions_unexplored/blue_bioshroom_torch", "everycomp:ch/regions_unexplored/brimwood_torch", "everycomp:ch/regions_unexplored/cobalt_torch", "everycomp:ch/regions_unexplored/cypress_torch", "everycomp:ch/regions_unexplored/dead_torch", "everycomp:ch/regions_unexplored/eucalyptus_torch", "everycomp:ch/regions_unexplored/green_bioshroom_torch", "everycomp:ch/regions_unexplored/joshua_torch", "everycomp:ch/regions_unexplored/kapok_torch", "everycomp:ch/regions_unexplored/larch_torch", "everycomp:ch/regions_unexplored/magnolia_torch", "everycomp:ch/regions_unexplored/maple_torch", "everycomp:ch/regions_unexplored/mauve_torch", "everycomp:ch/regions_unexplored/palm_torch", "everycomp:ch/regions_unexplored/pine_torch", "everycomp:ch/regions_unexplored/pink_bioshroom_torch", "everycomp:ch/regions_unexplored/redwood_torch", "everycomp:ch/regions_unexplored/socotra_torch", "everycomp:ch/regions_unexplored/willow_torch", "everycomp:ch/regions_unexplored/yellow_bioshroom_torch", "everycomp:ch/minecraft/pale_oak_torch"]
+# List of item ids that should be considered as a Soul Torch.
+"extra soul torch items" = []
+# Whether Vanilla torches can set targets on fire.
+# If false, only the items specified by [extra torch items] and [extra soul torch items] will set targets on fire.
+"vanilla torches enabled" = true
+# Whether to allow candles to act as torches.
+"allow candles" = false
+# Whether candles should break upon use.
+#Effective only if [allowCandles] is enabled.
+"consume candle" = false
+# Whether torches should break upon use.
+"consume torch" = false
+# Whether to break the torch/candle upon use even if no fire was set.
+# Effective only if [fire chance] and at least one of [consume torch] and [consume candle] are set different from default.
+"consume without fire" = false
+# Whether to break the torch/candle upon indirect hits.
+# Effective only if [consume torch] is set to true.
+"consume with indirect hits" = false
+# Chance (in percentage) for torches/candles to set targets on fire.
+#Range: 1 ~ 100
+"fire chance" = 100
+# Whether mobs wielding a torch can set their targets on fire.
+# Generally useful only when other mods tweak mobs to wield torches.
+"fire from mobs" = true

@@ -1,0 +1,13 @@
+name = "Path Reversal"
+filename = "path_to_grass-1.20.1-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xcouF3S4/versions/6lSOKVNp/path_to_grass-1.20.1-2.jar"
+hash-format = "sha512"
+hash = "525b958f23a85adbc814d502a12da619dc906103ba90c43fe85f9aa88fe8097576aeed3cba3d03645f83bd8778f61c988ad935e7a3cc9bf8b446f80fcee79836"
+
+[update]
+[update.modrinth]
+mod-id = "xcouF3S4"
+version = "6lSOKVNp"

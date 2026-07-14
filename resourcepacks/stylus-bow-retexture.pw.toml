@@ -1,0 +1,13 @@
+name = "Stylus's Bow Retexture"
+filename = "Stylus's Bow Retexture.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DcPGZASP/versions/nT6MWQv8/Stylus%27s%20Bow%20Retexture.zip"
+hash-format = "sha512"
+hash = "c7a60f4652e32e0b060719ff25efd97702d0a3478b54946e63a47fa5587eaf64e4c190e8b9d5511955fb4cd4d107010613a42e32819139d62ddd5fe92d96bc4c"
+
+[update]
+[update.modrinth]
+mod-id = "DcPGZASP"
+version = "nT6MWQv8"

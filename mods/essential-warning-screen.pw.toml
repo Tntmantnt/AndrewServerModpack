@@ -1,0 +1,13 @@
+name = "Essential Warning Screen"
+filename = "essentialwarningscreen-2.0.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TatchvoL/versions/No5ZlAeR/essentialwarningscreen-2.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "f14b67237f02f800bc38a96e0a1a50fc2a43f09310020d6698b79b315130d261050470c86e29aeed5bb9c9b304ca2407916b6b951b02b716c6db36ec282dc720"
+
+[update]
+[update.modrinth]
+mod-id = "TatchvoL"
+version = "No5ZlAeR"

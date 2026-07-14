@@ -1,0 +1,13 @@
+name = "Particle Interactions Forgified"
+filename = "eg_particle_interactions-fabric-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z0nJlqgw/versions/I5jtQpvt/eg_particle_interactions-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "c187cf1378b191b6e7bbc69c283537c7c587cf216aa22b11cb0226898a0cf6f84636c354fb601547397190b0d89ffd082da9cdd571d471db76d4aa3f0175344c"
+
+[update]
+[update.modrinth]
+mod-id = "z0nJlqgw"
+version = "I5jtQpvt"

@@ -1,0 +1,13 @@
+name = "Ghast Direction"
+filename = "ghastdirection-1.1.0+1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7gwuN94K/versions/v36nTwl4/ghastdirection-1.1.0%2B1.20.jar"
+hash-format = "sha512"
+hash = "2983b46178542560a1ffe64823ee9642c7dfc03a055362ecacfbc6382eda8cf45aad7ad38d000120a803208d4eb4251f207b358ae35dc127edfb6520d9cf8a9a"
+
+[update]
+[update.modrinth]
+mod-id = "7gwuN94K"
+version = "v36nTwl4"

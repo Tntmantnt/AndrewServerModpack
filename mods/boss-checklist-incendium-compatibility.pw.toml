@@ -1,0 +1,13 @@
+name = "Boss Checklist - Incendium Compatibility"
+filename = "Boss Checklist - Incendium Compatibility 1.20.1 1.0.0 Fabric & Quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yQgpun4Y/versions/VdvQCfdE/Boss%20Checklist%20-%20Incendium%20Compatibility%201.20.1%201.0.0%20Fabric%20%26%20Quilt.jar"
+hash-format = "sha512"
+hash = "4e7e036e51ec1c9a7fa83fb5418fcac7b1f8b1d2e3e93a7683ba3227cf437188802045f5890f8cc7e94c6ae5017d3b1c8ccc4feffece4a097a892c266833bcab"
+
+[update]
+[update.modrinth]
+mod-id = "yQgpun4Y"
+version = "VdvQCfdE"

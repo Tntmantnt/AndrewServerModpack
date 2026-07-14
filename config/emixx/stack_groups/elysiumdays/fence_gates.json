@@ -1,0 +1,8 @@
+{
+  "type": "emixx:group",
+  "id": "ed:fence_gates",
+  "contents": [
+    "#minecraft:fence_gates",
+    "meadow:pine_fence_gate"
+  ]
+}

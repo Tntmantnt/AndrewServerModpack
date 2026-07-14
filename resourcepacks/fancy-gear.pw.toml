@@ -1,0 +1,13 @@
+name = "Fancy Gear | Reshaded Equipment"
+filename = "FancyGear_1.13-1.21.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/227OXIM4/versions/Qj5wedmX/FancyGear_1.13-1.21.1.zip"
+hash-format = "sha512"
+hash = "97cac56ab60444d82a76fd52093a59eff04e2ca6730342c3478e9495fa0175b36e22628521dfad2e795a3cf01c7365a2a432cb22cc814b2b074e9104423c292b"
+
+[update]
+[update.modrinth]
+mod-id = "227OXIM4"
+version = "Qj5wedmX"

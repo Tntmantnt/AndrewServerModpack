@@ -1,0 +1,13 @@
+name = "Icons Compats"
+filename = "Icons Compats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/l4AXiRxt/versions/kr1mDK6P/Icons%20Compats.zip"
+hash-format = "sha512"
+hash = "536865713fb32826033a187d39b55a59ff51cd0bec08380be25397958402303e75dfcf94c6f03aef1301e013658c746662bfac69459120d6fce532fe100c643d"
+
+[update]
+[update.modrinth]
+mod-id = "l4AXiRxt"
+version = "kr1mDK6P"

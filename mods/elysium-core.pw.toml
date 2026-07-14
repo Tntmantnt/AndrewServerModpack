@@ -1,0 +1,13 @@
+name = "Elysium Core"
+filename = "elysiumcore-8.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UCovMYfx/versions/kfCBFF4j/elysiumcore-8.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "90bb4dc6ebb71a42db913f1a2d839544f2f559fe3a49a152058a232cf5348700c686c0cf6335c35925d2f10e799121d1f1cfde071e99390e0acd2a1a1365ed84"
+
+[update]
+[update.modrinth]
+mod-id = "UCovMYfx"
+version = "kfCBFF4j"

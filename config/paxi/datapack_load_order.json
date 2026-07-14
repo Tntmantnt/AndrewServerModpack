@@ -1,0 +1,10 @@
+{
+  "loadOrder": [
+    "datapacks/ED_Nether_Height_Modifier.zip",
+    "datapacks/ED_Recipes.zip",
+    "datapacks/ED_Advancement_Tweaks.zip",
+    "datapacks/CAC_No_Silk_Cocoons.zip",
+    "datapacks/Sortilege_Staffs_DP.zip",
+    "datapacks/BetterVillages_Bountiful_1.20.1.zip"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "emixx:group",
+  "id": "ed:ores",
+  "contents": [
+    "#c:ores",
+    "universal_ores:granite_redstone_ore",
+    "universal_ores:diorite_redstone_ore",
+    "universal_ores:andesite_redstone_ore",
+    "universal_ores:tuff_redstone_ore",
+    "universal_ores:calcite_redstone_ore",
+    "universal_ores:blackstone_quartz_ore",
+    "universal_ores:basalt_quartz_ore",
+    "meadow:alpine_salt_ore"
+  ]
+}

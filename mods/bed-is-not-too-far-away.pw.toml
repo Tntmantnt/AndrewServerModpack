@@ -1,0 +1,13 @@
+name = "Bed Is Not Too Far Away"
+filename = "bedisnottoofaraway-0.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/K7703Hff/versions/q1hYAgNo/bedisnottoofaraway-0.0.1.jar"
+hash-format = "sha512"
+hash = "02165db2bb4df2c127853b14524929775ddcb0b151a4e16310ae702ec42e21af7e2430e968ada1fff05927b8576438128eef1b36b22c684c837992c9af9fadc2"
+
+[update]
+[update.modrinth]
+mod-id = "K7703Hff"
+version = "q1hYAgNo"

@@ -1,0 +1,13 @@
+name = "Compostables"
+filename = "compostables-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3lmTDgee/versions/b6N4AMJ3/compostables-1.2.0.jar"
+hash-format = "sha512"
+hash = "ee07f94da41f8ae207ca1f2e4891aa2a2a2b688e006647a82182e430264437fb87a4d0d2680a60d2a1962972c3be79b6cfda76a09b4c268cc535e6aee7b8f326"
+
+[update]
+[update.modrinth]
+mod-id = "3lmTDgee"
+version = "b6N4AMJ3"

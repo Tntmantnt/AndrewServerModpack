@@ -1,0 +1,13 @@
+name = "Heads Hurt Too!"
+filename = "heads_hurt_too-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wJqRUDrG/versions/KR6g57JY/heads_hurt_too-1.0.0.jar"
+hash-format = "sha512"
+hash = "8eb48c12f9163c363a2bffe391bbf3d8b1dd0bb25504eff2f8f12010b5b0e901549429d240ee5c7a313cad7eb49a575ac193ee247fd170586608be1f1c1e4df6"
+
+[update]
+[update.modrinth]
+mod-id = "wJqRUDrG"
+version = "KR6g57JY"

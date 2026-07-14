@@ -1,0 +1,13 @@
+name = "Grindy Elytras"
+filename = "grindy-elytras-1.1.0-1.20.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nr1fitr3/versions/GH5tPPMN/grindy-elytras-1.1.0-1.20.x.jar"
+hash-format = "sha512"
+hash = "1b4256040ab43363b0ffc125b3d47545221eace60f2797740e7336bdbe1ec2f3c24538628054b789eb7a0d38fa4a4ee1d8ae5e8bf620112577a9d18369884e2c"
+
+[update]
+[update.modrinth]
+mod-id = "Nr1fitr3"
+version = "GH5tPPMN"

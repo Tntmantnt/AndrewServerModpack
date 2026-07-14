@@ -1,0 +1,13 @@
+name = "Shield Sounds Backport"
+filename = "shieldsoundsbackport-1.0.0-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jfhwKST4/versions/skq8TpZi/shieldsoundsbackport-1.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "2979e384de04b5a36480dcc82be550fefb375083e0645996a7a097df4954b7688a87fe759aabb950d8b54dd7c2673cfb225e13c60014565b61a5058a36f150a7"
+
+[update]
+[update.modrinth]
+mod-id = "jfhwKST4"
+version = "skq8TpZi"

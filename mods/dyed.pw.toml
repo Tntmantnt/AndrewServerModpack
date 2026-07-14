@@ -1,0 +1,13 @@
+name = "Dyed"
+filename = "dyed-fabric-1.20.4-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5mFDTffy/versions/DLqQduqr/dyed-fabric-1.20.4-1.2.1.jar"
+hash-format = "sha512"
+hash = "de95b78b6921ce7d2697e78156540bbeccc50dc20e89feef4005089f847c76724a219f0c866314afc1ca5c47349d1eb14bf40ae410d88d9c1db8bfa2daf66999"
+
+[update]
+[update.modrinth]
+mod-id = "5mFDTffy"
+version = "DLqQduqr"

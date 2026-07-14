@@ -1,0 +1,13 @@
+name = "Semos Animations Lib"
+filename = "Semos Animations Lib 2.0.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SY2QNRYK/versions/O0nLBGUP/Semos%20Animations%20Lib%202.0.3.zip"
+hash-format = "sha512"
+hash = "943a3244102858b622d3f4a993f0cceb9ce7debe3f19b1576048329611ba93dc9365066b7fcae516ad495e15de221f540798af1b599df199721efe00d49e1ff5"
+
+[update]
+[update.modrinth]
+mod-id = "SY2QNRYK"
+version = "O0nLBGUP"

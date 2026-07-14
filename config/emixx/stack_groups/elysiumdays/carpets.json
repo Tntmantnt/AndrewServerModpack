@@ -1,0 +1,8 @@
+{
+  "type": "emixx:group",
+  "id": "ed:wool_carpets",
+  "contents": [
+    "#minecraft:wool_carpets",
+    "meadow:warped_carpet"
+  ]
+}

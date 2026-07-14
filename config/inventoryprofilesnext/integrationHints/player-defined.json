@@ -1,0 +1,205 @@
+{
+    "net.mehvahdjukaar.sawmill.SawmillScreen": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.sawmill.SawmillMenu": {
+        "ignore": true
+    },
+    "net.satisfy.farm_and_charm.client.gui.CookingPotGui": {
+        "ignore": true
+    },
+    "net.satisfy.farm_and_charm.client.gui.handler.CookingPotGuiHandler": {
+        "ignore": true
+    },
+    "net.satisfy.farm_and_charm.client.gui.RoasterGui": {
+        "ignore": true
+    },
+    "net.satisfy.farm_and_charm.client.gui.handler.RoasterGuiHandler": {
+        "ignore": true
+    },
+    "net.satisfy.herbalbrews.client.gui.CauldronGui": {
+        "ignore": true
+    },
+    "net.satisfy.herbalbrews.client.gui.handler.CauldronGuiHandler": {
+        "ignore": true
+    },
+    "earth.terrarium.chipped.client.screens.WorkbenchScreen": {
+        "ignore": true
+    },
+    "earth.terrarium.chipped.common.menus.WorkbenchMenu": {
+        "ignore": true
+    },
+    "net.satisfy.meadow.client.gui.CheeseFormGui": {
+        "ignore": true
+    },
+    "net.satisfy.meadow.client.gui.handler.CheeseFormGuiHandler": {
+        "ignore": true
+    },
+    "net.satisfy.meadow.client.gui.CookingCauldronGui": {
+        "ignore": true
+    },
+    "net.satisfy.meadow.client.gui.handler.CookingCauldronGuiHandler": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.common.inventories.PresentContainerMenu": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.NoticeBoardScreen": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.common.inventories.NoticeBoardContainerMenu": {
+        "ignore": true
+    },
+    "io.ejekta.bountiful.client.BoardScreen": {
+        "ignore": true
+    },
+    "io.ejekta.bountiful.content.gui.BoardScreenHandler": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.PulleyScreen": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.common.inventories.PulleyContainerMenu": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 3
+            }
+        }
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.common.inventories.TrappedPresentContainerMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.gui.screen.camera.CameraAttachmentsScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.menu.CameraAttachmentsMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.gui.screen.LightroomScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.menu.LightroomMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.gui.screen.album.AlbumScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.menu.AlbumMenu": {
+        "ignore": true
+    },
+    "net.minecraft.class_476": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 2
+            }
+        }
+    },
+    "net.satisfy.herbalbrews.client.gui.TeaKettleGui": {
+        "ignore": true
+    },
+    "net.satisfy.herbalbrews.client.gui.handler.TeaKettleGuiHandler": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.gui.screen.ItemRenameScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.menu.ItemRenameMenu": {
+        "ignore": true
+    },
+    "net.pcal.copperhopper.CohoScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "top": -8
+            }
+        }
+    },
+    "net.satisfy.farm_and_charm.client.gui.StoveGui": {
+        "ignore": true
+    },
+    "net.satisfy.farm_and_charm.client.gui.handler.StoveGuiHandler": {
+        "ignore": true
+    },
+    "net.Pandarix.betterarcheology.screen.IdentifyingScreen": {
+        "ignore": true
+    },
+    "net.Pandarix.betterarcheology.screen.IdentifyingScreenHandler": {
+        "ignore": true
+    },
+    "com.li64.tide.client.gui.screens.AnglingTableScreen": {
+        "ignore": true
+    },
+    "com.li64.tide.client.gui.menus.AnglingTableMenu": {
+        "ignore": true
+    },
+    "com.helliongames.snifferplus.client.gui.screens.inventory.SnifferInventoryScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -12,
+                "bottom": 5
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -10
+            },
+            "SORT": {
+                "top": -10
+            },
+            "SORT_COLUMNS": {
+                "top": -10
+            },
+            "SORT_ROWS": {
+                "top": -10
+            }
+        }
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.RedMerchantScreen": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.common.inventories.RedMerchantMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.client.gui.screen.album.AlbumScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.world.inventory.AlbumMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.client.gui.screen.LightroomScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.world.inventory.LightroomMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.client.gui.screen.ItemRenameScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.world.inventory.ItemRenameMenu": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.client.gui.screen.camera.CameraAttachmentsScreen": {
+        "ignore": true
+    },
+    "io.github.mortuusars.exposure.world.inventory.CameraInHandAttachmentsMenu": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.client.screens.CannonScreen": {
+        "ignore": true
+    },
+    "net.mehvahdjukaar.supplementaries.common.inventories.CannonContainerMenu": {
+        "ignore": true
+    },
+    "net.satisfy.candlelight.client.gui.LetterGui": {
+        "ignore": true
+    },
+    "net.satisfy.candlelight.client.gui.handler.LetterGuiHandler": {
+        "ignore": true
+    }
+}

@@ -1,0 +1,13 @@
+name = "Companion 🐕"
+filename = "Companion-1.20.1-Fabric-5.4.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4w0EzGRW/versions/h9OKCOHX/Companion-1.20.1-Fabric-5.4.1.jar"
+hash-format = "sha512"
+hash = "affcc2d3cfa2871bdf936b2d222f4e34dee9e53d1b8a8ad0055bc71ec14731c969095b3ca6e5b11fea3b7faeb8541c2abb1688c172081716a0df8e9d3a75aea3"
+
+[update]
+[update.modrinth]
+mod-id = "4w0EzGRW"
+version = "h9OKCOHX"

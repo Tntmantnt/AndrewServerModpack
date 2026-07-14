@@ -1,0 +1,20 @@
+{
+  "patches": [
+    {
+      "target_tables": [
+        "friendsandfoes:entities/iceologer"
+      ],
+      "extra_tables": [
+        "elysiumcore:iceologer"
+      ]
+    },
+    {
+      "target_tables": [
+        "friendsandfoes:entities/wildfire"
+      ],
+      "extra_tables": [
+        "elysiumcore:wildfire"
+      ]
+    }
+  ]
+}

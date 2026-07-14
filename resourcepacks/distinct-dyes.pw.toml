@@ -1,0 +1,13 @@
+name = "Distinct Dyes"
+filename = "§cDistinct §dDyes.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WLcrZ50l/versions/UxH0JS6Z/%C2%A7cDistinct%20%C2%A7dDyes.zip"
+hash-format = "sha512"
+hash = "83df46e0702f71fc2be730ddac716f69295821bffb546ff19159420d37b1ad531d4cd440a9ef9864b5c1c068b21640eef994bd4970f2f990e905fdd0839e43dd"
+
+[update]
+[update.modrinth]
+mod-id = "WLcrZ50l"
+version = "UxH0JS6Z"

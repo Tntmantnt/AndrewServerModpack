@@ -1,0 +1,13 @@
+name = "Bushy Round Blossoms"
+filename = "BushyRoundBlossums-v1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4G4EVspv/versions/ub8Kc1jz/BushyRoundBlossums-v1.0.zip"
+hash-format = "sha512"
+hash = "c6ec292238f4f7a2e40f8750470535018e23dbb2d05994a04011db73876c81effd877061a40644a25a813e75368cbef2fe95aac01f3b2a57c65a0c8570067469"
+
+[update]
+[update.modrinth]
+mod-id = "4G4EVspv"
+version = "ub8Kc1jz"

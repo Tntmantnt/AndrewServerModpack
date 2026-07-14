@@ -1,0 +1,13 @@
+name = "Tameable Foxes"
+filename = "tameable-foxes-2.0.6-fabric.1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NcZSHHC2/versions/nB426VLh/tameable-foxes-2.0.6-fabric.1.20.1.jar"
+hash-format = "sha512"
+hash = "1314bf7485fddf3daed6af0c17ec2c11dd88a3caa6949cfc5dbe1e06c64550c3f0bc24006e18d3defd9dc35811ff22ff33795d4e39e0512b5a67ae573e06efb2"
+
+[update]
+[update.modrinth]
+mod-id = "NcZSHHC2"
+version = "nB426VLh"

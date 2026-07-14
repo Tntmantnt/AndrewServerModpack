@@ -1,0 +1,13 @@
+name = "Blaze bridge fixer RP"
+filename = "Blaze Bridge Fixer.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Uu5XceLu/versions/VUKibn3Q/Blaze%20Bridge%20Fixer.zip"
+hash-format = "sha512"
+hash = "5ba52a5b74c100d060d22f0974f9c118ce5b63e9130126bdc3d7cd93c62fa2730818b6251c882edf53d59b56d54de10e26bd2c8bb35b10a551ad9a79e7ce6f94"
+
+[update]
+[update.modrinth]
+mod-id = "Uu5XceLu"
+version = "VUKibn3Q"

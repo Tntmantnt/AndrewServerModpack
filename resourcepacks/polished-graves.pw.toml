@@ -1,0 +1,13 @@
+name = "Polished Graves"
+filename = "PolishedGraves1.0.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/edb782N0/versions/DyQ1dyzR/PolishedGraves1.0.1.zip"
+hash-format = "sha512"
+hash = "f786554b51e9a22c6dc4769fe76dfedbaaaa852ebfb38e630a4ec0e870c012bce30e3942f711ef6cd980825786c2a387a3bb0659f933c9ad67f150ec86a44613"
+
+[update]
+[update.modrinth]
+mod-id = "edb782N0"
+version = "DyQ1dyzR"

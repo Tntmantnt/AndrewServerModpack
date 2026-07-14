@@ -1,0 +1,13 @@
+name = "New Chests"
+filename = "New Chests.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qaS62BSw/versions/jCPROR3F/New%20Chests.zip"
+hash-format = "sha512"
+hash = "f2c5c501325b57fb5436f375e7c1d0ec191972873440d92f06dbaa0c66e2bc58c12739f59ee9140db6e989103a1950c97f268e85b126f4c8af5a83b492a4df09"
+
+[update]
+[update.modrinth]
+mod-id = "qaS62BSw"
+version = "jCPROR3F"

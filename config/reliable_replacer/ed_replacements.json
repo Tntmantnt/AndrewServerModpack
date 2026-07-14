@@ -1,0 +1,54 @@
+[
+  {
+    "inputs": ["meadow:woodcutter"],
+    "output": "sawmill:sawmill"
+  },
+  {
+    "inputs": ["meadow:climbing_rope_topmount", "meadow:climbing_rope"],
+    "output": "supplementaries:rope"
+  },
+  {
+    "inputs": ["beautify:bookstack"],
+    "output": "handcrafted:stackable_book"
+  },
+  {
+    "inputs": ["meadow:camera"],
+    "output": "minecraft:air"
+  },
+  {
+    "inputs": ["philipsruins:obsidian_brick"],
+    "output": "phantasm:polished_obsidian_bricks"
+  },
+  {
+    "inputs": ["philipsruins:obsidian_brick_stairs"],
+    "output": "phantasm:polished_obsidian_brick_stairs"
+  },
+  {
+    "inputs": ["philipsruins:obsidian_brick_slab"],
+    "output": "phantasm:polished_obsidian_brick_slab"
+  },
+  {
+    "inputs": ["philipsruins:sand_stone_brick"],
+    "output": "chipped:sandstone_bricks"
+  },
+  {
+    "inputs": ["philipsruins:red_sand_stone_brick"],
+    "output": "chipped:red_sandstone_bricks"
+  },
+  {
+    "inputs": ["philipsruins:sandstone_tiles"],
+    "output": "chipped:sandstone_mini_tiles"
+  },
+  {
+    "inputs": ["philipsruins:red_sand_stone_tiles"],
+    "output": "chipped:red_sandstone_mini_tiles"
+  },
+  {
+    "inputs": ["philipsruins:cracked_bone"],
+    "output": "chipped:cracked_bone_block"
+  },
+  {
+    "inputs": ["supplementaries:blackstone_tile"],
+    "output": "chipped:blackstone_mini_tiles"
+  }
+]

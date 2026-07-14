@@ -1,0 +1,13 @@
+name = "shureee's Potions"
+filename = "shureee's Potions CIT v1.0.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eqiooCPB/versions/RK1pPQ2K/shureee%27s%20Potions%20CIT%20v1.0.3.zip"
+hash-format = "sha512"
+hash = "e7ce4f5dfa49118c011a468c548b2fae22a83357d53ec390cccade67787b74ca2556f555c55689690af8104906ca9ca6490be8d415a08ad968a839409306267d"
+
+[update]
+[update.modrinth]
+mod-id = "eqiooCPB"
+version = "RK1pPQ2K"

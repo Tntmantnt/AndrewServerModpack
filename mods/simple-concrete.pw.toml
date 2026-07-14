@@ -1,0 +1,13 @@
+name = "Simple Concrete"
+filename = "simple-concrete-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rvaj4n3V/versions/aQ7M8lAx/simple-concrete-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "b8eeadbbeb052e52bd4ffd1fb2ae1fb0da2ba1e1f0c991751a9adc68dea47fb3bf88e9c811564a3eea8d9b42af09cff2c0af5095a1e16058099d80c129ffea4d"
+
+[update]
+[update.modrinth]
+mod-id = "rvaj4n3V"
+version = "aQ7M8lAx"

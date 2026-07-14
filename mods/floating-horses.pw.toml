@@ -1,0 +1,13 @@
+name = "Floating Horses"
+filename = "floating-horses-1.0.2-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bmpbDMLZ/versions/9IR4fwgk/floating-horses-1.0.2-fabric-1.20.1.jar"
+hash-format = "sha512"
+hash = "d6b2f1107748b304e94dcdf28d0dc9801db1916d122fdc21522413fa6387fbb3a177c4a3e3f83c6365e6cfa3965daa3da73766e8d9736080cb9c045dc2558134"
+
+[update]
+[update.modrinth]
+mod-id = "bmpbDMLZ"
+version = "9IR4fwgk"
