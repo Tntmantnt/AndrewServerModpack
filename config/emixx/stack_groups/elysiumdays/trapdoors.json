@@ -1,8 +1,0 @@
-{
-  "type": "emixx:group",
-  "id": "ed:trapdoors",
-  "contents": [
-    "#minecraft:trapdoors",
-    "meadow:pine_barn_trapdoor"
-  ]
-}

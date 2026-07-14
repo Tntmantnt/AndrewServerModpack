@@ -1,9 +1,0 @@
-{
-  "type": "emixx:group",
-  "id": "ed:froglights",
-  "contents": [
-    "#chipped:ochre_froglight",
-    "#chipped:verdant_froglight",
-    "#chipped:pearlescent_froglight"
-  ]
-}

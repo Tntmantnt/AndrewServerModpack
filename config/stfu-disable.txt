@@ -1,7 +1,0 @@
-chat.MoreHistory
-rendering.DisableParticles
-rendering.DisableTextureAnimation
-rendering.DisableWeather
-rendering.ParticleCulling
-ThreadPriorities
-Tooltips

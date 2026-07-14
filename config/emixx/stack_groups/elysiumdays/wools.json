@@ -1,8 +1,0 @@
-{
-  "type": "emixx:group",
-  "id": "ed:wools",
-  "contents": [
-    "#minecraft:wool",
-    "meadow:warped_wool"
-  ]
-}

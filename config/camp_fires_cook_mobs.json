@@ -1,8 +1,0 @@
-{
-  "standard_campfires_burn_items": false,
-  "soul_campfires_burn_items": false,
-  "standard_campfire_damage": 1.0,
-  "soul_campfire_damage": 2.0,
-  "frost_walker_protects_from_standard_campfires": true,
-  "frost_walker_protects_from_soul_campfires": true
-}
