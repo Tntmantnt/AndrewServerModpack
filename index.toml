@@ -2301,6 +2301,11 @@ file = "datapacks/Sortilege_Staffs_DP.zip"
 hash = "b497cb5af311fbbf37fdf20018c920b12a970ca26ad9b7884bfb7dafe6f8628f"
 
 [[files]]
+file = "datapacks/better-villages-bountiful.pw.toml"
+hash = "a0c5a848062b32a0fc863b44802e7303d323684542a4521cdcec7c9ce286f2a0"
+metafile = true
+
+[[files]]
 file = "modrinth.index.json"
 hash = "7b98bec5baa439d5dac134624861792cc64fa79c3268d7d42542d6a6eb66dbd3"
 
@@ -3829,7 +3834,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "d4a17ff2edfcb1bf47f75c1ff486c022461f6af163d7b4dbff7478f3953c8b5c"
+hash = "271e03a5d1193dc96dfbadb0aa41292146fd690e36ae718479bf1d3dfda19863"
 metafile = true
 
 [[files]]
@@ -3865,11 +3870,6 @@ metafile = true
 [[files]]
 file = "mods/rmes-campfire-leather.pw.toml"
 hash = "dc6cbdcc139170a6f33e7bb6c40b1f9d7e9dae8fc8b9a3948bb0a62f434738bc"
-metafile = true
-
-[[files]]
-file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "0cd5367ed91852729bc52d57bdbabc4079fa92c1aa7b03ef19c3f8d9f737978e"
 metafile = true
 
 [[files]]
