@@ -3811,6 +3811,11 @@ file = "mods/sushi_bar-0.2.2+1.20.jar"
 hash = "5537b056813db54d4bfe42c1afa56ca0d644e95f6828ff4527e4a7903b2da2f4"
 
 [[files]]
+file = "mods/tacz-refabricated.pw.toml"
+hash = "28f81a755c6b815e7d452fad9b2cf6c37eb94787f8905a323c03124dcea21186"
+metafile = true
+
+[[files]]
 file = "mods/takesapillage-fabric-1.0.12+mc1.20.1.jar"
 hash = "e8f8a72f71b22cafad77dff1b53698c18bd8aa29049051c1596f420ae875c249"
 
