@@ -1837,10 +1837,6 @@ file = "config/regions_unexplored.conf"
 hash = "b1b520fc7717240e179cc11a61de80d9b8a8c402138fb438fa1122d9c920898f"
 
 [[files]]
-file = "config/regions_unexplored/regions_unexplored-common.toml"
-hash = "d24cd416b1fcc3c103c6b90c42e1bfab4e2b10de8fbb1608ed0d05c510383db3"
-
-[[files]]
 file = "config/regions_unexplored/regions_unexplored-primary-region.toml"
 hash = "2f899d2fc007d9c9c0c7ebb182b3c02c2ad56da52fad034c4354fd4943622686"
 
