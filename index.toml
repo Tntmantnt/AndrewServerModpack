@@ -3583,11 +3583,6 @@ hash = "c96aee43a3e9e1b69311f7c9d3b7753320f30813b7d8d32f498a0601804e7322"
 metafile = true
 
 [[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
-metafile = true
-
-[[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "d8b654dc07d841c88efdad3c859da3dd4f3572eaeee78d59ee1d9bf6e2222dcc"
 metafile = true
