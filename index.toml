@@ -2715,6 +2715,11 @@ hash = "7d69376bbef2642c06f14282bd4e844581e12a56d5f91ea743d2a763b8a3b49f"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "dfb3791da12798522449390e0bd4199ee47ee682c10e37dffa534713decd9913"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "765c845fe7e63a5d1ce2a4a4f31dac08c8f6a58dc61f73f2556287f72628e6d8"
 metafile = true
@@ -2767,6 +2772,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "52355f7f314b3208a1a51ed5ca0ad94986eb22ab174465fbe36b92a3c5b3c7fe"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "8a0ca848c88fe0f399a0e733aea47fbdde3e5ab4a3cdda8fff7f70e16fdbb420"
 metafile = true
 
 [[files]]
