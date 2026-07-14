@@ -4327,8 +4327,8 @@ hash = "3c0eb4c0faa949fd2669607bb8e312959856774112bea8060a0efee90917b11c"
 metafile = true
 
 [[files]]
-file = "mods/xxl-packets.pw.toml"
-hash = "2ebccfef870b790452fa9a3d6868f7857757c99e1432138e73a9631d186947e5"
+file = "mods/xl-packets-fabric.pw.toml"
+hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
 metafile = true
 
 [[files]]
