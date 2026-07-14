@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/particular.json5"
+hash = "8b03d7243ef30b293cd665f405efd719a4e62c5a3af7a9dc095322a974c4fec2"
+
+[[files]]
 file = "datapacks/CAC_No_Silk_Cocoons.zip"
 hash = "aaf0122a171188482f28d28f24b148d450423706dbceae801c3ad773f4cb7976"
 
