@@ -1112,11 +1112,6 @@ hash = "d981aec749a39840d1fffe6f34d8632882db6f74e9208b5758e09f6684923b39"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-wildernature.pw.toml"
-hash = "3b0cdf181bb102bd75dd06c403c1122f59071f172f78fbd58aca9117f51d9301"
-metafile = true
-
-[[files]]
 file = "mods/libipn.pw.toml"
 hash = "a48039bcaa8624bdbcc52b1ad54e595d60689292adaa0facd2cb07d6698d066b"
 metafile = true
@@ -1814,11 +1809,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "ef0efb82ac71ebe494ac94a6dcffde1e3e1cad42afdd1e1db4aaaf84b6c9b486"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries-squared.pw.toml"
-hash = "b876f54b487353dec01109f320a78ee0b6b2bf98061f80ba55a32370ed787df4"
 metafile = true
 
 [[files]]
