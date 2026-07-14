@@ -465,6 +465,11 @@ hash = "4f3f10a40f081b619d55e72ca90fe38805b811a917340727ea7a2078344ebcf0"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "056917bc859460fae1ad59755701559e69066d79d76f12f3072b78273b180a0c"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "162d49f058aa135615d4d27741a7d996ec62688142afd3ff8a5b70f388fe86b0"
 metafile = true
