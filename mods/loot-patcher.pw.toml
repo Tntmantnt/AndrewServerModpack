@@ -1,6 +1,6 @@
 name = "Loot Patcher"
 filename = "loot-patcher-1.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Qc3Wx1Hk/versions/OP3W4ovr/loot-patcher-1.2.0.jar"

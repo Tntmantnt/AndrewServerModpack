@@ -1,6 +1,6 @@
 name = "RailOptimization"
 filename = "railoptimization-fabric-mc1.20.2-1.5.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QSvN5pBU/versions/Ph6t37Fs/railoptimization-fabric-mc1.20.2-1.5.1.jar"

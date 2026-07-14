@@ -1,6 +1,6 @@
 name = "Better Walls"
 filename = "betterwalls-3.5.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uYYEtS6i/versions/K4OpIv3C/betterwalls-3.5.2.jar"

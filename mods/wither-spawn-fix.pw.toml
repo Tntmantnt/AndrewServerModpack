@@ -1,6 +1,6 @@
 name = "Wither Spawn Fix"
 filename = "wither_spawn_fix-MC1.20.1-1.0.0(1).jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KseM6VIg/versions/xEFCYq5M/wither_spawn_fix-MC1.20.1-1.0.0%281%29.jar"

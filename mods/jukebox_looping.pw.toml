@@ -1,6 +1,6 @@
 name = "Jukebox Looping"
 filename = "jukebox_looping-1.1.2+1.20+A.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8G8TjZrI/versions/BQ1xMhy6/jukebox_looping-1.1.2%2B1.20%2BA.jar"

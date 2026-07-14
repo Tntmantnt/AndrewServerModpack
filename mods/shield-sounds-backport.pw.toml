@@ -1,6 +1,6 @@
 name = "Shield Sounds Backport"
 filename = "shieldsoundsbackport-1.0.0-fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jfhwKST4/versions/skq8TpZi/shieldsoundsbackport-1.0.0-fabric.jar"

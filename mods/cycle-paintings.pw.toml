@@ -1,6 +1,6 @@
 name = "Cycle Paintings"
 filename = "cyclepaintings-1.20.1-4.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/c85whkNB/versions/tmI15AGR/cyclepaintings-1.20.1-4.2.jar"

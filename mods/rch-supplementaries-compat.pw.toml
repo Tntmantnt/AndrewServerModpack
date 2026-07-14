@@ -1,6 +1,6 @@
 name = "RightClickHarvest Supplementaries Compat"
 filename = "rch-supplementaries-compat-fabric-1.0.1+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1UdKJCjq/versions/k9H4azrx/rch-supplementaries-compat-fabric-1.0.1%2B1.20.1.jar"

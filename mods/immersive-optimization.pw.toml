@@ -1,6 +1,6 @@
 name = "Immersive Optimization"
 filename = "immersive_optimization-fabric-1.20.1-0.1.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vNZgQmjg/versions/waZE4cdi/immersive_optimization-fabric-1.20.1-0.1.6.jar"

@@ -1,6 +1,6 @@
 name = "Puncher"
 filename = "puncher-fabric-2.0.0+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2Qlu5M7f/versions/XJtRBW0S/puncher-fabric-2.0.0%2B1.20.1.jar"

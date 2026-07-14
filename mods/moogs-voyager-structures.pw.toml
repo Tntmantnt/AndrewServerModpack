@@ -1,6 +1,6 @@
 name = "MVS - Moog's Voyager Structures"
 filename = "MoogsVoyagerStructures-1.20-5.0.8.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/2kWFzrLt/MoogsVoyagerStructures-1.20-5.0.8.jar"

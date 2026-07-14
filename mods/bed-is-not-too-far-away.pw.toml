@@ -1,6 +1,6 @@
 name = "Bed Is Not Too Far Away"
 filename = "bedisnottoofaraway-0.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/K7703Hff/versions/q1hYAgNo/bedisnottoofaraway-0.0.1.jar"
