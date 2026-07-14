@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.20-2.8.15-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/zOVMcKoT/supplementaries-1.20-2.8.15-fabric.jar"
+hash-format = "sha512"
+hash = "ccbc43b4b84c007df0598f081e164b54c5abf3951e1c87c11c737ef0953fc9b0c371fee8115ded2361e60acb7b61d19d57d27de9fd7e346c598b435707fa6814"
+
+[update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "zOVMcKoT"
