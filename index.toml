@@ -3262,6 +3262,11 @@ file = "mods/guardvillagers-2.0.9-1.20.1.jar"
 hash = "a18f60127cfc8f0f75867738255a98026ae53a3f4a02b5ce4901baaecfcab502"
 
 [[files]]
+file = "mods/guns++.pw.toml"
+hash = "5c91d894b417d6d86746440c5aaba31efceb1339f0e7d710269a138532f570c7"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted-fabric-1.20.1-3.0.6.jar"
 hash = "aa82c95a7394c5fd7278c8b89e3554bb24dae0c3e6e73282a7f19d8bb6bf4a71"
 
@@ -3341,6 +3346,16 @@ hash = "bfe158c575a9d31faf94019beb62a7fa6ef0ed75cdf19cf4a5356e0e755cc332"
 [[files]]
 file = "mods/leafmealone-1.0.1.jar"
 hash = "250ed81f8670d0afca9fec58d6c53b6023f3d66f1c78a26add87999d17e6e440"
+
+[[files]]
+file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
+hash = "1fa46cc140a1e1f028fdb0a1717022a701b4558b87c6c0506c7c82a9b80e9e1e"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "419bd839d19392cc602591a1bd9975e02e4f946f93f161fa793865530628af63"
+metafile = true
 
 [[files]]
 file = "mods/letsdo-bakery-fabric-2.0.6.jar"
@@ -3811,11 +3826,6 @@ file = "mods/sushi_bar-0.2.2+1.20.jar"
 hash = "5537b056813db54d4bfe42c1afa56ca0d644e95f6828ff4527e4a7903b2da2f4"
 
 [[files]]
-file = "mods/tacz-refabricated.pw.toml"
-hash = "28f81a755c6b815e7d452fad9b2cf6c37eb94787f8905a323c03124dcea21186"
-metafile = true
-
-[[files]]
 file = "mods/takesapillage-fabric-1.0.12+mc1.20.1.jar"
 hash = "e8f8a72f71b22cafad77dff1b53698c18bd8aa29049051c1596f420ae875c249"
 
@@ -3846,6 +3856,11 @@ hash = "26920daff598105d9f076572b1f39c2fcfb3d7149db639daf801763022503b58"
 [[files]]
 file = "mods/torch-hit-fabric-1.20.1-7.0.0.jar"
 hash = "36963171afef540160c5ad1dbcfbe5b1afa35bbfeecabd6772892122ccf44175"
+
+[[files]]
+file = "mods/tree-vein-miner.pw.toml"
+hash = "28508f258a96ddccb48449283346a5b11b2711f7c1fe2a0b6b0ed917c00f1c04"
+metafile = true
 
 [[files]]
 file = "mods/trek-B0.6.2.jar"
