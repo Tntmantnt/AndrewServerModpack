@@ -3262,11 +3262,6 @@ file = "mods/guardvillagers-2.0.9-1.20.1.jar"
 hash = "a18f60127cfc8f0f75867738255a98026ae53a3f4a02b5ce4901baaecfcab502"
 
 [[files]]
-file = "mods/guns++.pw.toml"
-hash = "5c91d894b417d6d86746440c5aaba31efceb1339f0e7d710269a138532f570c7"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted-fabric-1.20.1-3.0.6.jar"
 hash = "aa82c95a7394c5fd7278c8b89e3554bb24dae0c3e6e73282a7f19d8bb6bf4a71"
 
