@@ -3267,6 +3267,11 @@ file = "mods/guardvillagers-2.0.9-1.20.1.jar"
 hash = "a18f60127cfc8f0f75867738255a98026ae53a3f4a02b5ce4901baaecfcab502"
 
 [[files]]
+file = "mods/gunpowder-recipe-mod.pw.toml"
+hash = "8d53ba20b2200675bc917e8eb9d6447bbf0e32351c0791b820c2a62c75727610"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted-fabric-1.20.1-3.0.6.jar"
 hash = "aa82c95a7394c5fd7278c8b89e3554bb24dae0c3e6e73282a7f19d8bb6bf4a71"
 

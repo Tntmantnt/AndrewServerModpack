@@ -1,0 +1,13 @@
+name = "Gunpowder Recipe Mod"
+filename = "craftable_gunpowder_fabric-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vr011Hac/versions/WO2z6l88/craftable_gunpowder_fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "434c4d951fb152937826afecca4e37fb1b2181a4fcef543e9785c9afa613d3c31707d2f76286f1017841c0842a65279b5201d5f0dfbd434b099ff4ecb5c450b6"
+
+[update]
+[update.modrinth]
+mod-id = "vr011Hac"
+version = "WO2z6l88"
