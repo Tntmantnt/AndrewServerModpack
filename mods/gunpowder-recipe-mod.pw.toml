@@ -1,6 +1,6 @@
 name = "Gunpowder Recipe Mod"
 filename = "craftable_gunpowder_fabric-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vr011Hac/versions/WO2z6l88/craftable_gunpowder_fabric-1.1.0.jar"

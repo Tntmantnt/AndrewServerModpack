@@ -3268,7 +3268,7 @@ hash = "a18f60127cfc8f0f75867738255a98026ae53a3f4a02b5ce4901baaecfcab502"
 
 [[files]]
 file = "mods/gunpowder-recipe-mod.pw.toml"
-hash = "8d53ba20b2200675bc917e8eb9d6447bbf0e32351c0791b820c2a62c75727610"
+hash = "70dd1be0dbf362f0e78a1be8cdc9ef76d9cc322d0b77b3334eeabd94a6fb6dda"
 metafile = true
 
 [[files]]
