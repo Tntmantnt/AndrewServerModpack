@@ -2874,6 +2874,11 @@ file = "mods/bygonenether-1.20-1.3.2.jar"
 hash = "75fe570852acb1a1dc7d556c66736f4e82c6e9809ea2244961b4b79ebda66d53"
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "ade864be9b0be5ed45fe53e621c9bd30778cbf2cfbf702b27aca203abf1d7bf7"
+metafile = true
+
+[[files]]
 file = "mods/calmdowndog-1.1.0.jar"
 hash = "82d9502b82b8bcbd5647f9a87818cb566d7f3002bde251fd54cc11a719691426"
 
@@ -3733,6 +3738,11 @@ file = "mods/skinlayers3d-fabric-1.11.2-mc1.20.1.jar"
 hash = "9f76e7018eca0a20bb6c4f269d7192e14beba375f7fb9064425804d6fbdaab96"
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "18d84c132f116eedf06e967346e98868cca5483f9015cfbc366a35b5eb223971"
+metafile = true
+
+[[files]]
 file = "mods/smarterfarmers-1.20-2.1.2-fabric.jar"
 hash = "b799905dbf9ce207c2b71da25312f7d741753f4d97b1841f9dfb617cf5a7eb95"
 
@@ -3909,6 +3919,11 @@ hash = "72daa3b74acdd42c5298796e60154538e7c7fe82b70234efc6c873b4efb73a4b"
 [[files]]
 file = "mods/vb-x-ru-3.0.jar"
 hash = "3f2721c56dad1c59b50aa4f5f4ac32f083e3c5b40dc8443510d56429ffd91faf"
+
+[[files]]
+file = "mods/vics-point-blank.pw.toml"
+hash = "c504ff07921eb507af700d22dd91451d4485081e5e2be07b08299e789d503003"
+metafile = true
 
 [[files]]
 file = "mods/villagernames-1.20.1-8.5.jar"
